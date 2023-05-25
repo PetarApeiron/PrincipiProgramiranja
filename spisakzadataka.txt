@@ -1,0 +1,20 @@
+Izračunati faktorijel broja.
+Izračunati Fibonacci niz za zadani broj elemenata.
+Provjeriti da li je zadani string palindrom.
+Izračunati sumu svih elemenata u nizu.
+Sortirati niz brojeva u silaznom redoslijedu.
+Pronaći najveći zajednički djelitelj (NZD) dva broja.
+Provjeriti da li je zadani broj prost broj.
+Izračunati kvadratnu korijen za zadani broj.
+Prebrojati koliko puta se određeni element pojavljuje u nizu.
+Zamijeniti sve pojave određenog elementa u nizu sa drugim elementom.
+Proveriti da li su dva niza jednaka (imaju iste elemente u istom redoslijedu).
+Provjeriti da li je zadani broj Armstrongov broj.
+Izračunati prosjek svih brojeva u nizu.
+Prebrojati koliko puta se određeni karakter pojavljuje u zadatom stringu.
+Zamijeniti svako slovo u stringu sa sledećim slovom u engleskoj abecedi.
+Provjeriti da li je zadati string anagram nekog drugog stringa.
+Izračunati sumu svih brojeva između dva zadana broja.
+Provjeriti da li je zadati broj savršen broj.
+Izračunati stepen broja.
+Provjeriti da li su svi elementi u nizu jedinstveni (bez ponavljanja).
